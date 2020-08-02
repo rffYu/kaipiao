@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# XML files
+*.xml
+
+# Excel files
+

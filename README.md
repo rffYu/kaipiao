@@ -1,6 +1,6 @@
 # interface_kp
 
-部分借鉴了另一位大神的想法（http://bbs.canet.com.cn/thread-568341-1-1.html），借用了他的Excel模板，代码部分为原创。
+部分借鉴了另一位大神的想法（http://bbs.canet.com.cn/thread-568341-1-1.html） ，借用了他的Excel模板，代码部分为原创。
 
 目的是将Excel文件转化为开票软件可导入的XML文件
 
